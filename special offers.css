@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    background-color: bisque;
+  }
+  
+  .coupon {
+    border: 5px dotted #bbb;
+    width: 80%;
+    border-radius: 15px;
+    margin: 0 auto;
+    max-width: 600px;
+  }
+  
+  .container {
+    padding: 2px 16px;
+    background-color: wheat;
+  }
+  
+  .promo {
+    background: #ccc;
+    padding: 3px;
+  }
+  
+  .expire {
+    color: red;
+  }
+.menu{
+  float: right;
+  list-style: none;
+  margin-top: 30px;
+  margin-right: 10px;
+}  
+.menu li{
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 15px;
+}
